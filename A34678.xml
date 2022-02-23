@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrine of the church to which is committed the keys of the kingdome of heaven wherein is demonstrated by way of question and answer what a visible church is, according to the order of the Gospel, and what officers, members, worship, and government Christ hath ordained in the New Testament / by that Reverend and learned Divine Mr. Jo. Cotton ...</title>
+            <author>Cotton, John, 1584-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34678</idno>
+            <idno type="STC">Wing C6430</idno>
+            <idno type="STC">ESTC R9380</idno>
+            <idno type="EEBO-CITATION">12532204</idno>
+            <idno type="OCLC">ocm 12532204</idno>
+            <idno type="VID">62788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62788)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 310:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrine of the church to which is committed the keys of the kingdome of heaven wherein is demonstrated by way of question and answer what a visible church is, according to the order of the Gospel, and what officers, members, worship, and government Christ hath ordained in the New Testament / by that Reverend and learned Divine Mr. Jo. Cotton ...</title>
+                  <author>Cotton, John, 1584-1652.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The third edition,</edition>
+               </editionStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ben. Allen ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church polity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62788:1"/>
+            <pb facs="tcp:62788:1" rendition="simple:additions"/>
+            <p>THE DOCTRINE OF THE CHURCH, To which is committed the Keys of the Kingdome of Heaven.</p>
+            <p>Wherein is demonſtrated by way of Queſtion and Anſwer, <hi>what a viſible Church is, according to the order of the Goſpel:</hi> And <hi>what Officers, Members, Worſhip, and Government Christ hath ordained in the New Teſtament.</hi>
+            </p>
+            <p>By that Reverend and learned Divine Mr. <hi>Jo. Cotton,</hi> B.D. and Teacher of the Church at <hi>Boſton</hi> in <hi>New-England.</hi>
+            </p>
+            <p>
+               <hi>The Third Edition:</hi> More exactly corrected, the Marginall proofes in the former Edition miſplaced, being herein placed more directly; and many other faults both in the Line and Margent, are here Corrected.</p>
+            <q>
+               <bibl>Ezek. 43.10, 11.</bibl> 
+               <p>Thou Sonne of man, ſhew the houſe to the houſe of Iſrael, that they may be aſhamed of their iniquities, and let them meaſure the pat<g ref="char:EOLhyphen"/>terne. And if they hee aſhamed of all that they have done, ſhew them the forme of the houſe, and the faſhion therof, and the goings out there<g ref="char:EOLhyphen"/>of, and the commings in thereof, and all the formes thereof, and all the ordinances thereof, and all the formes thereof, and all the lawes thereof: and write it in their ſight, that they may learn the whole forme thereof, and all the ordinances thereof, and doe them.</p>
+            </q>
+            <q>
+               <bibl>Ier 6.16</bibl> 
+               <p>Thus ſaith the Lord, Stand ye in the waies and ſee, and aske for the old, paths, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>Jer. 50.5.</bibl> 
+               <p>They ſhall aske the way to Zion, with their faces thitherward, ſaying, Come, let us joyne our ſelves to the Lord in a perpetuall Covenant, that ſhall not be forgotten.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ben: Allen,</hi> and are to be ſold in Popes-head Alley. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_text">
+            <pb facs="tcp:62788:2"/>
+            <pb n="1" facs="tcp:62788:2"/>
+            <head>THE DOCTRINE OF THE CHVRCH, And its GOVERNMENT.</head>
+            <p n="1">1 Queſtion, <hi>
+                  <seg rend="decorInit">W</seg>Hat is the Church of the New Teſtament?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> The Church is a myſticall bo<g ref="char:EOLhyphen"/>dy<note n="a" place="margin">Epheſ. 5.30, 31, 32. 1 Cor. 12.27. Rom. 12.4, 5.</note>, whereof Chriſt is the Head<note n="b" place="margin">Epheſ. 1.22. &amp; 5.23.</note>, the Mem<g ref="char:EOLhyphen"/>bers be Saints<note n="c" place="margin">1 Cor. 1.2, 9. &amp; 14.23, 33. Col. 1.2, 12. &amp; 2.5. 1 Theſ. 1.1, 3, 7. &amp; 2.14. Act. 17.1, 4.</note>, called out of the world<note n="d" place="margin">1 Cor. 1.2, 9. &amp; 5.10, 11, 12. 2 Cor. 6.16, 17. Joh. 15.19. 1 Kin. 8.53. Levit. 20.25, 26. Act. 19.1, 8, 9.</note>, and united together into one Congregation<note n="e" place="margin">1 Cor. 11.18, 20. &amp; 14.23, 33, 34. &amp; 16.1, 16.</note>, by an holy Covenant<note n="f" place="margin">Exod. 19 5, 6. &amp; 24.3, 7 Deut. 5.2, 27. with Act. 7.38. Deut. 29.1, 9. to 25. Jer. 50.5. Amos 3.3. Iſa. 62.5. with Mal. 2.14.</note>, to worſhip the Lord, and to edifie one another, in all his holy Ordinances<note n="g" place="margin">Act. 2.42. 1 Cor. 9.2. Mat. 28.19, 20. Joh. 25.14.</note>.</p>
+            <p n="2">2 Qu. <hi>What ſort of members</hi>
+               <note n="*" place="margin">Rom. 12.4, 5. 1 Cor. 12 14. to 27.</note> 
+               <hi>hath God ſet in his Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Some that are Miniſters<note n="a" place="margin">1 Cor. 4.1. Epheſ. 4.12. Col. 4.17. Rom. 12 7.</note> or Officers<note n="b" place="margin">1 Tim. 3.1, 10, 13. Rom. 11.13.</note> in the Church; others commonly called by the generall name,
+<pb n="2" facs="tcp:62788:3"/> which belongeth to all the Members, Brethren<note n="c" place="margin">Act 15.22, 23. Col. 1.2. Rom. 16.17, 23.</note> and Saints<note n="d" place="margin">Col. 1.2. 1 Cor. 14.33.</note>.</p>
+            <p n="3">3 Qu. <hi>What ſorts of Miniſters or Officers hath God ſet in his Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Some extraordinary, as Apoſtles, Prophets and Evangeliſts<note n="a" place="margin">Epheſ. 4.11. 1. Cor 12.28.</note>: Some ordinary and perpetuall, as Biſhops and Deacons<note n="b" place="margin">Phil. 1.1. 1 Tim 3.1, 2, 8.</note>.</p>
+            <p n="4">4 Qu. <hi>What manner of men are to be called to the Office of a Biſhop, or Elder of the Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> A Biſhop or Elder of the Church, muſt be in him<g ref="char:EOLhyphen"/>ſelfe a blameleſſe man for holineſſe and righteouſneſſe, and for freedome from paſſions and luſts: Alſo a vigilant man, and of good behaviour. Moreover, hee muſt be in his family a man of good government, and of good ho<g ref="char:EOLhyphen"/>ſpitality: In his name, a man of good report, even of thoſe that are without: In his profeſſion, not a young plant, but holding faſt the faithfull word; apt to teach it, and able to maintaine it<note n="a" place="margin">1 Tim. 2.2. to 7. Tit. 1.6. to 9.</note>.</p>
+            <p n="5">5 Qu. <hi>What ſorts of Biſhops or Elders hath God ordained in his Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Of Biſhops, who were alſo called Elders, God hath ordained two ſorts, Ruling Elders, and ſuch as la<g ref="char:EOLhyphen"/>bour in the word and doctrine<note n="a" place="margin">1 Tim. 5.17 1 Cor 12 28. Rom. 12.7, 8. Act. 20.28. Tit. 1.5, 7.</note>, commonly called <hi>Pa<g ref="char:EOLhyphen"/>ſtors</hi>
+               <note n="b" place="margin">Epheſ. 4.11.</note> and <hi>Teachers</hi>
+               <note n="c" place="margin">Act. 14.23. &amp; 20.17, 28. Phil. 1.1. Tit. 1.5.7.</note>: all of them are to watch over one certaine Flocke, the Church of a particular Congre<g ref="char:EOLhyphen"/>gation <hi rend="sup">d</hi>.</p>
+            <p n="6">6 Qu. <hi>What is the office, or worke of the Pastors and Teachers?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Paſtors ſpeciall worke<note n="*" place="margin">Speciall work.</note> is to attend upon Exhortation, and therein to diſpenſe a word of Wiſdome: The Teacher is to attend upon Do<g ref="char:EOLhyphen"/>ctrine, and therein to diſpenſe a word of Know<g ref="char:EOLhyphen"/>ledge<note n="a" place="margin">Rom. 12.7, 8. 1 Cor. 12.8.</note>.</p>
+            <p n="7">7 Qu. <hi>What is the office, or work of the Ruling Elders?</hi>
+            </p>
+            <pb n="3" facs="tcp:62788:3"/>
+            <p>
+               <hi>An.</hi> Seeing the Kingdom of Chriſt is not of this world, but heavenly and Spirituall<note n="a" place="margin">Iohn 18.36.</note>, and the Government of his Kingdome is not Lordly, but Stewardly and Miniſteri<g ref="char:EOLhyphen"/>all<note n="b" place="margin">Mat 20.25, 26. Luk. 12.42. 1 Cor. 4 1.</note>, and to labour in the Miniſtery of Exhortation and Doctrine, is the proper worke of the Paſtor and Teach<g ref="char:EOLhyphen"/>er<note n="c" place="margin">1 Tim. 5.17. Rom. 12.7, 8</note>, it remaineth therefore to bee the part and Office of the Ruling Elders, to aſsiſt<note n="*" place="margin">or joyne with</note> the Paſtor and Teacher in diligent attendance unto all other acts of rule beſides, as becometh good Stewards of the houſhold of God<note n="d" place="margin">1 Tim. 3.5. &amp; 5.17. Rom. 12.8. 1 Theſ. 5.12.</note>. As,</p>
+            <p>Firſt, to open and ſhut the Doores of Gods Houſe,<note n="e" place="margin">Mat. 16.19. 2 Chron. 23.19.</note> by admiſſion of Members<note n="f" place="margin">Acts 17.28, 29 Ezek. 22.26.</note>, by Ordination of Officers<note n="g" place="margin">1 Tim. 4 14. Acts 6.2.3, 5.</note>, Ex<g ref="char:EOLhyphen"/>communication of notorious &amp; obſtinate offenders<note n="h" place="margin">Mat. 16.19. &amp; 18.17, 18.</note>. Se<g ref="char:EOLhyphen"/>condly, to ſee that none in the Church live either inor<g ref="char:EOLhyphen"/>dinately without a calling, or idlely in their calling<note n="i" place="margin">2 Theſ. 3.6.10, 11, 12.</note>. Thirdly, to prevent and heale ſuch offences in life and doctrine, as might corrupt either their owne Church<note n="a" place="margin">Revel. 2.4, 14 15.20.</note>, or other Churches, if their counſell be required<note n="b" place="margin">Acts 15.2, 6.</note>. Fourth<g ref="char:EOLhyphen"/>ly, to prepare matters before-hand for the Churches con<g ref="char:EOLhyphen"/>ſideration<note n="c" place="margin">Acts 21.18, 19. Pro. 24.27.</note>. And fiftly, to moderate the carriage of all matters in the Church aſſembled<note n="d" place="margin">Acts 6.2, 3. Heb. 13.7.17.</note>, as to propound mat<g ref="char:EOLhyphen"/>ters to the Church, and to order the ſeaſon of ſpeech and ſilence in the Church<note n="e" place="margin">Act. 13.15.</note>. Sixtly, to feede the Flock of God with a word of admonition<note n="f" place="margin">1 Theſ. 5.12. Acts 20.28.31. <hi>Admonitio<g ref="char:EOLunhyphen"/>n is an act of rule, if ſet on with authority,</hi> Gen. 19.7, 8.</note>, and as they ſhall be called for to viſit and pray over their ſick Brethren<note n="g" place="margin">Jam. 5.14.</note>.</p>
+            <p n="8">8. Qu. <hi>What manner of men hath God appointed to be called to the Deacons office?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Men of gravity and of good report, not given to diſſembling, nor to wine; nor given to covetouſneſſe, full of the Holy Ghoſt and wiſedome, and holding faſt the myſtery of Faith in a pure Conſcience; keeping their houſes in good rule, and enjoying ſuch Wives, as may neither diſhonour nor corrupt their Office; no ſlanderers, but grave and ſober, and faithfull in all things<note n="a" place="margin">1 Tim. 3.8. to 12. Act. 6.3.</note>.</p>
+            <p n="9">9. Qu. <hi>What is the Office of the Deacons?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> To receive the offerings of the Church brought
+<pb n="4" facs="tcp:62788:4"/> unto them and laid downe before them<note n="a" place="margin">Act 4.34, 35</note>, and therewith to ſerve Tables<note n="b" place="margin">Acts 6.2.</note>, diſtributing with ſimplicity<note n="c" place="margin">Rom. 12.8.</note>, not only to the Miniſters of the Church<note n="d" place="margin">
+                  <hi>Gal. 6, 6. in Gr.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> put into the the common ſto<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k.</note>, but to any other of the Brethren, as they ſhall have neede<note n="e" place="margin">Acts 4.35.</note>.</p>
+            <p n="10">10. Qu. <hi>But is it not the Office of Deacons to ſhew mercy with cheerefulneſſe?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Yes verily, to their Brethren in miſery<note n="a" place="margin">Rom. 12.8.</note>, but that part of their Office they do chiefly performe by the hand of the Widowes, choſen into their number, who are therfore called the Deacons or Servants of the Church<note n="b" place="margin">Rom. 16.1.</note>.</p>
+            <p n="11">11. Qu. <hi>What manner of Widowes hath God allowed to bee taken into this number?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Antient women of ſixty yeares of age, well repor<g ref="char:EOLhyphen"/>ted of for good workes, for nouriſhing their Children, for lodging of Strangers, for waſhing the Saints feet, for re<g ref="char:EOLhyphen"/>lieving the afflicted, for following diligently every good worke<note n="a" place="margin">1 Tim. 5.9, 10.</note>,</p>
+            <p n="12">12. Qu. <hi>What manner of men hath God appointed to bee re<g ref="char:EOLhyphen"/>ceived as Brethren and Members of his Church?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Such as are called of God out of the world to the fellowſhip of Chriſt<note n="a" place="margin">Rom. 1.6, 7. 1 Cor. 1.2.9. Act. 2.38, 39, 40, 41, 47.</note>, and doe willingly offer and joyne themſelves firſt to the Lord<note n="b" place="margin">Acts 9.26. Pſal. 110.3. Iſa. 1 56.6, 7. Ier. 50.5.</note>, and then to the Church<note n="c" place="margin">Acts 2.41.47. &amp; 8.26, 27, 28.</note>, by confeſſing of their ſins<note n="d" place="margin">Mat. 3.6. Acts 19.18.</note>, by profeſſion of their Faith<note n="e" place="margin">Act. 8.36, 37.</note>, and by taking or laying hold of his Covenant<note n="f" place="margin">Iſa. 56.6, 7.</note>.</p>
+            <p n="13">13. Qu. <hi>What is the Office or duty which God calleth the Brethren unto, the members of the Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> To brotherly love<note n="a" place="margin">1 Pet. 2.17. &amp; 3.8. Col. 3.14. 1 Theſ. 4.9. Heb. 13.1.</note>, and to the fruits thereof, Brotherly unity<note n="b" place="margin">Eph. 4.3. Pſal. 13.3. 1 Col. 3.15. Acts 7.26.</note>, Brotherly equality<note n="c" place="margin">2 Cor. 8.14. Mat. 23.8. Deut. 7.20.</note>, and Brotherly communion<note n="d" place="margin">Acts 2.42. &amp; 4.32.</note>.</p>
+            <p n="14">14. Qu. <hi>Wherein ſtandeth the Brotherly unity wee are to hold one with another?</hi>
+            </p>
+            <pb n="5" facs="tcp:62788:4"/>
+            <p>
+               <hi>Anſ.</hi> To be perfectly joyned together in one mind, and one judgement, and one ſpeech, in one truth<note n="a" place="margin">1 Cor. 1.10. Phil. 2.1, 2. Epheſ 4.15.</note>: And where we cannot be of one judgement, yet ſtill to be of one heart<note n="b" place="margin">Phil 4 2. &amp; 3.15, 16. Act. 4.32.</note>, not provoking nor envying one another<note n="c" place="margin">Gal 5.26.</note>, but forbearing and forgiving<note n="d" place="margin">Epheſ. 4.2, 32. Col. 3.12, 13.</note>, not judging nor deſpiſing one another in differences of weakneſſe<note n="e" place="margin">Rom. 14.1.3.</note>, but ſo farre as we are come to walk together by the ſame rule<note n="f" place="margin">Phil. 3.16.</note>, to teach and to learne one of another the way of God more per<g ref="char:EOLhyphen"/>fectly<note n="g" place="margin">Act. 18.26.</note>, till we all grow up in the unity of the faith, unto a perfect man in Chriſt Jeſus<note n="h" place="margin">Epheſ. 4.13.</note>.</p>
+            <p n="15">15. Qu. <hi>Wherein ſtandeth the brotherly equality which we are to hold one with another?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In ſubmitting alike unto all Gods Ordinances, and enjoying alike all Chriſtian liberties<note n="a" place="margin">Gal. 3.28. Jam. 1.9, 10. Deut. 17.20. Ezek. 46.10.</note>, in preferring others before our ſelves<note n="b" place="margin">Phil. 2.3. Rom. 12.10.</note>, and ſeeking one anothers wel<g ref="char:EOLhyphen"/>fare<note n="c" place="margin">1 Cor. 10.24. Phil. 2.4. Gal. 5.13.</note>, and feeling their eſtates as our owne<note n="d" place="margin">Heb. 13.3. Rom. 12.15.</note>, in bearing the burdens one of another<note n="e" place="margin">Gal. 6.2.</note>, and impoſing no burdens, but in equall proportion<note n="f" place="margin">2 Cor. 8.13, 14.</note>.</p>
+            <p n="16">16 Qu. <hi>Wherein ſtandeth the brotherly Communion which we are to hold one with another?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In our ſtedfaſt and continuall fellowſhip in the Apoſtles doctrine, and worſhip, and miniſtration<note n="a" place="margin">Act. 2, 42. &amp; 6.1.</note>; and for this end to dwell together<note n="b" place="margin">Pſal. 133.1. &amp; 122.1, 3.</note>, to watch over one ano<g ref="char:EOLhyphen"/>ther<note n="c" place="margin">Heb. 10.24. &amp; 3.12, 13. &amp; 12.15. Mat. 18.15.</note>, to reſort together to the publike aſſemblies<note n="d" place="margin">Heb. 10.25. Pſal. 110.3. &amp; 122.1. Act. 20.20.</note>, and there to joyne in all holy duties, with one accord<note n="e" place="margin">Iſa. 60.8. Act. 1.14. &amp; 4.24. 1 Cor. 14.16, 26.</note>, and every Lords day, as God hath proſpered us, to lay up in ſtore for the ſupply of the Saints<note n="f" place="margin">1 Cor. 16.1, 2. 2 Cor. 9.12.</note>.</p>
+            <p n="17">17 Qu. <hi>How is the publike worſhip of God to be ordered and adminiſtred in the Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> All the members of the Church being met toge<g ref="char:EOLhyphen"/>ther as one man<note n="a" place="margin">Ezek. 46.10. 1 Cor. 11.33.</note>, in the ſight of God<note n="b" place="margin">Act. 10.33.</note>, are to joyn toge<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:62788:5"/> in holy duties, with one accord<note n="c" place="margin">Act. 4.24. 1 Cor. 14.16, 26.</note>, the men with their heads uncovered, the women covered<note n="d" place="margin">1 Cor. 114. to 16.</note>.</p>
+            <p n="18">18 Qu. <hi>What part of publike worſhip is first to be admini<g ref="char:EOLhyphen"/>ſtred?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Apoſtle exhorteth that firſt of all, all man<g ref="char:EOLhyphen"/>ner of prayers be made for all men, even for Kings, and all in authority, that we may lead a quiet and peaceable life, in all godlineſſe and honeſty<note n="a" place="margin">1 Tim. 2.1, 2 Ezra 6.10.</note>.</p>
+            <p n="19">19 Qu. <hi>Whether are not ſet forms of publike Prayer, devi<g ref="char:EOLhyphen"/>ſed and ordained by men, an acceptable ſacrifice unto the Lord?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If ſuch ſet forms had been an Ordinance of the Lord, and a Worſhip acceptable unto him, the Lord him<g ref="char:EOLhyphen"/>ſelfe, or at leaſt ſome of the Apoſtles and Prophets would not have held back that part of Gods counſell from the Church<note n="a" place="margin">Act. 20.26, 27.</note>. Beſides, publike Prayer is as well a part of publike Miniſtery, as Prophecy is<note n="b" place="margin">Gen. 20 7. Nehem. 9.6. 1 Cor. 14.16.</note>; and the forms of one might as juſtly be taught by the precepts of men, as the other<note n="c" place="margin">Iſa 29.13. Mat. 15.6, 9.</note>; and both of them are alike the gifts of the holy Spirit, to whom it belongeth as well to teach us what to pray, as how to pray<note n="d" place="margin">Rom. 8.26.</note>. Nor will it well ſtand with the holy geſture, very uſuall in Prayer, which is to lift up our eyes to heaven, to caſt down our eyes, and ſo fix them upon a book<note n="e" place="margin">Joh 11.41. &amp; 17.1. Pſal. 121.1. &amp; 123.1.</note>.</p>
+            <p n="20">20 Qu. <hi>What part of publike worſhip is next to be ad<g ref="char:EOLhyphen"/>ministred?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Before Prophecy it will be ſeaſonable to ſing a Pſalm<note n="a" place="margin">2 Kin 3.15. Col. 3.16.</note>, and then by ſome of the Teachers of the Church to read the word, and therewith to preach it, by giving the ſenſe, and applying the uſe<note n="b" place="margin">Nehem. 8.8. Acts 15.22 Luke 14.21, 23, to 28.</note>: In diſpenſing whereof they were wont to ſtand above all the people in a pulpit of wood, &amp; the Elders on both ſides<note n="c" place="margin">Nehem. 8.4.</note>, whilſt the people hear<g ref="char:EOLhyphen"/>kned to them with reverence &amp; attention<note n="d" place="margin">Neh 8.5, 6, 7. Luke 4 16 17, 20.</note>. Where there be more Prophets beſides the Elders, they may prophecy two or three<note n="e" place="margin">Nehem. 8.7. 1 Cor. 14.29, 31. 1 Theſ. 5.20.</note>, if the time permit, the Elders calling to them, whether of the ſame Church or others, if they have
+<pb n="7" facs="tcp:62788:5"/> any word of exhortation for the people to ſay on<note n="f" place="margin">Acts 13.15. 1 Cor. 14.31:</note>, and for the better edifying of a mans ſelfe or others, it may bee lawfull for any young or old (ſave<note n="*" place="margin">1 Cor. 14.34, 35.</note> onely for wo<g ref="char:EOLhyphen"/>men) to aske Queſtions at the mouth of the Prophets<note n="g" place="margin">Mal. 2.7. Lu. 2.46.</note>.</p>
+            <p n="21">21. Qu. <hi>After the Ministery of the Word, what part of Gods publique worſhip is next to be administred?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> After the Word (which is the Covenant of God) the ſeales of the Covenant are next to be adminiſtred, Baptiſme and the Lords Supper<note n="a" place="margin">Acts 16.14, 15.</note>. And as for Baptiſme, it is to be diſpenced by a Miniſter of the Word<note n="b" place="margin">Acts 16.14, 15, 31, 32, 33.</note>, unto a beleever, profeſsing his repentance, and his Faith<note n="c" place="margin">Mat. 28.19. Mat. 3 6.</note>, being a member of the ſame Church body<note n="d" place="margin">Lu. 3.5.12 8</note>, as alſo unto his ſeede<note n="e" place="margin">Act. 8.36.37 Gen. 17.23. Acts 16.15.33 1 Cor. 7.14.</note>, preſented by the Parents to the Lord, and his Church<note n="f" place="margin">Luk. 2.21.22</note>, at which time the Miniſter calleth upon the Parents to renew his Covenant with God for himſelfe, and his ſeed<note n="g" place="margin">Gen. 17.27.18.19.</note>, and calls upon God (as the nature of the Ordinance requireth) for the pardon of originall ſinne, and of the ſinne of the Parents, and for a bleſsing upon the Ordinance and Infant<note n="h" place="margin">Mat 3.11. 1 Tim 4.5.</note>; and then the Child being called by the name which the Parent hath given it, for the his owne edification, and the childs<note n="i" place="margin">Luk. 1.59 to 63. &amp; 2.21. Mat. 3.6, 16. Iohn 3.23. Acts 8.38, 39 Rom. 6.4.</note>, he Baptizeth it into Name of the Father, &amp; of the Son, &amp; of the holy Ghoſt<note n="k" place="margin">1 Cor. 10.2. Heb. 10.22. Mat. 28.19.</note>.</p>
+            <p n="22">22. Qu. <hi>How is the Lords Supper to be adminiſtred?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Supper of the Lord is to be diſpenced by the Miniſter of the Word<note n="a" place="margin">2 Cor. 30.17. and 35.5, 6.</note>, unto the faithful of the ſame Bo<g ref="char:EOLhyphen"/>dy<note n="b" place="margin">1 Cor. 10.17, &amp; 12, 13, 14.</note>, or commended to them by a like Body<note n="c" place="margin">Rom. 16.1, 2.</note>, having examined and judged themſelves<note n="d" place="margin">1 Cor. 11.28. to 31.</note>, and ſitting downe with him at the Lords Table <hi rend="sup">e</hi>, before whom the Mini<g ref="char:EOLhyphen"/>ſter taketh the Bread, and bleſſeth it, breaketh it, and gi<g ref="char:EOLhyphen"/>veth it to the Brethren, with this commandment once for all, To take and eat it as the body of Chriſt broken for them, and this to do in remembrance of him. In like manner alſo he taketh the Cup, and having given thanks, he powreth it forth, and giveth it to them, with a com<g ref="char:EOLhyphen"/>mandment to them all, To take, and drinke it as the
+<pb n="8" facs="tcp:62788:6"/> blood of Chriſt ſhed for them, and this alſo to doe in re<g ref="char:EOLhyphen"/>membrance of Him<note n="f" place="margin">Mat. 26.26.27, 28. Luke 22.19, 20. 1 Cor. 11.23, 24, 25. Mat. 26.30. Mar. 1426. Greeke, as He. 2.12. from Pſal. 22.22.</note>. After all have partaken, thankſ<g ref="char:EOLhyphen"/>giving is ended with ſinging a Pſalme*.</p>
+            <p n="23">23. Q. <hi>After the Miniſtery of the Word, and the ſeales there<g ref="char:EOLhyphen"/>of, how is the Collection for the Saints to be adminiſtred?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The collection for the Saints was by the Apo<g ref="char:EOLhyphen"/>ſtles ordinance, to bee made: for the time, every. Lords day<note n="a" place="margin">1 Cor. 16.1. 2. Deut. 16.10.16.</note>; for the meaſure, as God hath proſpered every man<note n="b" place="margin">1 Cor. 16.2 2 Cor. 8.3.</note>; for the manner, not of conſtraint, but freely and willingly<note n="c" place="margin">2 Cor. 9.5.7.</note>, brought by the givers as an Offering to the Lord, and laid downe<note n="d" place="margin">Acts 434.35 Mat. 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.42 2 Chro. 29.17</note>, as at firſt before the Apoſtles, ſo afterwards by their appointment before the Deacons of the Church as into a common Treaſury<note n="e" place="margin">Acts 4 35. with ch. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2. to 8. 1 Cor. 16.2 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>put into the common stocke,</hi> Gal. 6.6. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 Tim. 5.17, 18. Gal 6.6. Acts 4.35. &amp; 6.1, 2, 3. Rom. 15.25, 26. Acts 1.28, 29, 30.</note>, by them to be diſtributed to the ſupply of the Miniſtery, and of the poore Saints, according to their need, and of outward ſervice of the Church <hi rend="sup">f</hi>.</p>
+            <p n="24">24 Qu. <hi>What duty of Gods worſhip is to bee performed in diſmiſſing the Aſſembly?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> After all other parts of Gods publique worſhip have beene performed, the Miniſter<note n="a" place="margin">Num. 6.23.</note>, or any of the Pro<g ref="char:EOLhyphen"/>phets, is to diſmiſſe the Aſſembly with a word of bleſ<g ref="char:EOLhyphen"/>ſing<note n="b" place="margin">1 Sam. 6.18. 1 King. 8.14. and 8.55, 10.61.</note>, offering up bleſſing unto the Lord, and putting a bleſsing upon the People<note n="c" place="margin">Num. 6.25. to 27. 2 Theſ. 3.17, 18. 2 Cor. 13.14.</note>.</p>
+            <p n="25">25. Qu. <hi>In what manner are all the duties of Gods worſhip to be adminiſtred?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In ſpirituall ſimplicity, without affectation of legal ſhadowes<note n="a" place="margin">Iohn 4.24.</note>, of worldly pompe, or carnall excellencie<note n="b" place="margin">2 Cor. 2.17. &amp; 1.12. 1 Cor. 2.1, 2, 6, 13.</note>, decently<note n="c" place="margin">1 Cor. 14.40.</note>, and in order<note n="d" place="margin">Idem.</note>, and to edification<note n="e" place="margin">1 Cor. 14.26.</note>.</p>
+            <p n="26">26. Qu. <hi>What forme of Governement is the Government of the Church?</hi>
+            </p>
+            <pb n="9" facs="tcp:62788:6"/>
+            <p>
+               <hi>Anſ.</hi> The Government of the Church is in Chriſt our head kingly or royall<note n="a" place="margin">Pſal. 2.6. Iſa. 33.22. &amp; 9.6</note>, but in the Church Stewardly and Miniſteriall<note n="b" place="margin">Mat. 16.19 1 Cor. 4.1, 4. 1 Pet. 4.10. &amp; 5.1, 2, 3.</note>, and in both of them ſpirituall and heaven<g ref="char:EOLhyphen"/>ly<note n="c" place="margin">John 18 36.</note>
+            </p>
+            <p n="27">27. Qu. <hi>How doth Chriſt exerciſe his Kingly government (or power) in the Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> By calling the Church into holy fellowſhip with himſelfe, and one with another<note n="a" place="margin">Pſal. 74.2 &amp; 76.1, 2</note>, by ordaining Officers and Governours in his Church, with their callings and gifts<note n="b" place="margin">Eph. 4.8, 11 1 Cor. 12.28</note>, by giving Lawes and Ordinances to his Church, for the whole Government of it<note n="c" place="margin">Iſa. 33.22 Jam. 4.12</note>, by putting life and power, even the power of his Spirit, into all his Ordinan<g ref="char:EOLhyphen"/>ces, for the edifying of his body unto perfection<note n="d" place="margin">2 Tim. 3.16 17. Mat. 18.18, 20. &amp; 28 20. Iohn 16 7, to 11, 13, 14.</note>, and fi<g ref="char:EOLhyphen"/>nally by ſubduing our enemies, and perfecting our ſelves in his peace to his heavenly kingdom<note n="e" place="margin">Rom. 16.20. Iohn 14.27. 2 Tim. 4.18</note>.</p>
+            <p n="28">28 Qu. <hi>How is the Government of the Church in the hand of the Church, Stewardly or Miniſteriall?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Becauſe the end of the Government of the Church is ſpirituall and heavenly<note n="a" place="margin">Iohn 18.36 Mat. 16.19</note>, as is the building up of Chriſts kingdome, and the ſaving of ſoules<note n="b" place="margin">1 Cor. 5.5</note>. It is not in the power of men to ordain or provide means or helps to ſuch ends; but onely for him that can worke upon the ſoule and conſcience<note n="c" place="margin">Eph. 4.11, 12 1 Cor, 1.24 &amp; 3.5, 6, 7</note>: and therefore it is not in the hand of the Church to make Lawes or Ordinances, to chooſe Officers or Members, to adminiſter Sacraments, or Cen<g ref="char:EOLhyphen"/>ſures, or any part of Worſhip or Government, of their owne heads, but to receive all as from the hand of Chriſt; and to diſpenſe all according to the will of Chriſt, revea<g ref="char:EOLhyphen"/>led in his word<note n="d" place="margin">Heb. 8.5 1 Kin. 13.33 &amp; 12.33. Ier. 7.31. Num. 15.39. Deut. 12.1, 4, 31.32.</note>.</p>
+            <p n="29">29. Qu. <hi>How is the Government of the Church ſpirituall and heavenly?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Government of the Church, though it bee
+<pb n="10" facs="tcp:62788:7"/> not altogether inward, but partly outward<note n="a" place="margin">Luk. 17.20, 21. Iſa. 2.2.</note>, as being ad<g ref="char:EOLhyphen"/>miniſtred by open and known Officers<note n="b" place="margin">Iſa. 30.20.</note>, with an audible and lively voyce<note n="c" place="margin">Rev. 1.16.</note>, in the open face of the Brethren of the Congregation<note n="d" place="margin">Mat. 18.15, 16, 17. 1 Tim. 5.20.</note>, yet it is in it ſelfe not of this world, but ſpirituall and heavenly<note n="e" place="margin">Joh. 18.36.</note>, as being ordained not by the wiſdome of this world, but of Chriſt<note n="f" place="margin">1 Cor. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 6, 7, 8. Mat. 28.20.</note>; and adminiſtred, not according to the precepts of men, but his commande<g ref="char:EOLhyphen"/>ments<note n="g" place="margin">Mat. 15.6, 9</note>; not by earthly weapons, but by the Word, and ſeals of the Covenant, and other ſpirituall Ordinances<note n="h" place="margin">2 Cor. 10.4 Iſa. 11.4.</note>; not working upon the bodies or outward eſtates of men by fines, or impriſonments loſſe of limbs, or of life; but upon their ſoules and conſciences by the evidence of the Spirit<note n="i" place="margin">Heb. 13.17 2 Cor. 10 5. 1 Cor. 2.4.</note>: Finally, not ayming at worldly peace, wealth and honour, but at the righteouſneſſe of faith, peace of conſcience, and joy in the holy Ghoſt<note n="k" place="margin">Joh. 16 33 Rom. 14 17</note>.</p>
+            <p n="30">30 Qu. <hi>To whom hath Chriſt committed the Govern<g ref="char:EOLhyphen"/>ment of his Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Partly to the body of the Church, in reſpect of the ſtate or frame of it<note n="a" place="margin">Mat. 16.19 &amp; 18.17. Pſal. 45.16. &amp; 149 8, 9.</note>, but principally to the Presby<g ref="char:EOLhyphen"/>tery<note n="*" place="margin">Or <hi>Elderſhip.</hi>
+               </note> in reſpect of the order or adminiſtration of it<note n="b" place="margin">1 Tim. 5.17. &amp; 4.14. 1 Theſ. 5.12. Heb. 13.17. 1 Cor. 12.28</note>.</p>
+            <p n="31">31 Qu. <hi>What power of Government is committed to the bo<g ref="char:EOLhyphen"/>dy of the Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The body of the Church hath power from Chriſt to chooſe and call her owne Officers and Members<note n="a" place="margin">Act. 1.23, 26 &amp; 14.23. &amp; 6.3, 5. &amp; 9.26, 27.</note>, to ſend forth any of them for his ſervice<note n="b" place="margin">2 Cor 8.10, 23. Phil. 2.25.</note>, and to inquire, &amp; hear, &amp; aſſiſt, in the judgment of all publike ſcandals<note n="c" place="margin">Act. 11.2, 3, 18. Mat. 18.17. 1 Cor. 5.4, 5, 12. Act. 5.23. Col. 4.17</note>.</p>
+            <p n="32">32 Qu. <hi>What power of Government is committed to the</hi>
+               <note n="*" place="margin">
+                  <hi>Or</hi> Elderſhip (of the ſame Church) <hi>1 Tim. 4.14.</hi> Old Tranſlation.</note> 
+               <hi>Presbytery?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> To call the Church together<note n="a" place="margin">Act. 6.2. &amp; 14.27. Joel 1 13, 14.</note>, and to deliver the counſell of God to them with all authority<note n="b" place="margin">Tit. 2.15.</note>, to pre<g ref="char:EOLhyphen"/>pare matters for the Churches hearing<note n="c" place="margin">Act. 21.18, 19</note>, and to propound and order the aſſembly<note n="d" place="margin">Act. 13.15</note>, and to adminiſter Ordinations<note n="e" place="margin">1 Tim. 4.14</note>, and Cenſures<note n="f" place="margin">1 Tim. 1.20.</note>, and to diſmiſſe the people with a bleſſing in the name of the Lord<note n="g" place="margin">Num. 6.23.</note>.</p>
+            <p n="33">
+               <pb n="11" facs="tcp:62788:7"/>33. Qu. <hi>But hath not Chriſt committed ſome power of Go<g ref="char:EOLhyphen"/>vernment to every private Member of the Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Yes verily, there is a power of edification<note n="a" place="margin">1 Cor. 10.23 24. Mat. 16.18, 19 &amp; 17.15, 16.</note>, which the Lord hath given to every Member of the Chuch, to exerciſe mutually one over another<note n="b" place="margin">Iude 20. 1 Theſ. 5 5.11. 1 Cor. 12 7.</note>, to ſave ſome with compaſsion, others with feare<note n="c" place="margin">Iude 21, 22, 23.</note>, by a word of inſtruction, Admonition, Exhortation, and Comfort<note n="d" place="margin">Acts 18.26. Mat. 18.15. Col. 3 16. 1 Theſ. 5.14 11.</note>.</p>
+            <p n="34">34. Qu. <hi>How is Ordination to be administred?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> When the Church hath choſen and called on Officer, they preſent him to the Elders<note n="a" place="margin">Acts 1.23. &amp; 6.5, 6.</note>, who doe or<g ref="char:EOLhyphen"/>daine him, if he be a Deacon, with Prayer, and Impoſiti<g ref="char:EOLhyphen"/>an of hands<note n="b" place="margin">Acts. 6.6.</note>, and with Faſting alſo, if he bee an Elder<note n="c" place="margin">Acts 14.23.</note>.</p>
+            <p n="35">35. Qu. <hi>How are the Cenſures of the Church to be admini<g ref="char:EOLhyphen"/>ſtred?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Cenſures of the Church are ordained by Chriſt for the removing of ſcandalls out of the Church<note n="a" place="margin">Mat. 18.16. to 15. Luk. 17.1, 2, 3.</note>, which if they be private (one Brother offending another) the offender is to goe and acknowledge his repentance of it unto his Brother<note n="b" place="margin">Mat. 5.23, 24</note>, who is then to forgive him<note n="c" place="margin">Luk. 17.14.</note>, but if the offender neglect to doe it, the Brother offended is to goe and admoniſh him, and convince him of it betweene themſelves privately. If thereupon the offender bee brought to repent of his offence, the Admoniſher hath wonne his Brother: but if the offender heare not his bro<g ref="char:EOLhyphen"/>ther, the brother offended is to take with him one or two more, that in the mouth of two or three witneſſes every word may be eſtabliſhed; whether the word of admoni<g ref="char:EOLhyphen"/>tion, if the offender receive it, or the word of complaint to the Church, if he refuſe it: for if he refuſe it, the offen<g ref="char:EOLhyphen"/>ded brother is to tell the Church, and if he refuſe to heare the Church, then he is to bee counted as an Heathen and Publican<note n="d" place="margin">Luke 17.3. Mat. 18.15, 16, 17.</note>.</p>
+            <p n="36">36. Qu. <hi>What if the ſcandalls (or offences) be publike, how are they to be removed?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> By publique reproofe<note n="a" place="margin">1 Tim. 5.20. Gal. 2.14.</note>, and if the offences be not onely publique but haynous, then the Church is to re<g ref="char:EOLhyphen"/>move
+<pb n="12" facs="tcp:62788:8"/> the offence by Excommunicating the offender out of the Church<note n="b" place="margin">1 Cor. 5.1.5. 1 Tim. 1.20.</note>.</p>
+            <p n="37">37. Qu. <hi>How is Excommunication to be adminiſtred?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> When the offence of any Brother is publique and haynous, or being private, is by the obſtinacie of the of<g ref="char:EOLhyphen"/>fender become publiquely ſcandalous, the Church beeing met together, is in the name and power of the Lord Je<g ref="char:EOLhyphen"/>ſus, and with his Spirit, to deliver ſuch an one unto Satan for the deſtruction of the fleſh, and the ſalvation of his ſoule in the day of the Lord Jeſus<note n="a" place="margin">1 Cor. 5.1.4, 5. Mat. 18.17. 1 Tim. 1.20. 2 Tim. 3.2, 5. Tit. 3.10, 11.</note>.</p>
+            <p n="38">38. Qu. <hi>Is there no uſe of Suſpenſion in the Church?</hi>
+            </p>
+            <p>
+               <hi>Anſ. There may, to Members lying under the apparent guilt of ſinne, after the admonition of</hi> the Church<note n="a" place="margin">1 Cor. 5.11. 2 Theſſ. 3.14.</note>, diſcer<g ref="char:EOLhyphen"/>ning the uncleane from the cleane, untill they bee clean<g ref="char:EOLhyphen"/>ſed<note n="b" place="margin">Dev. 10.10. Eze. 22, 26. Ier. 15.19.</note>.</p>
+            <p n="39">39. Qu. <hi>What is Anathema Maranatha?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> It is the utmoſt Cenſure of the Church, whereby a Brother falling from the love of Chriſt into hatred a<g ref="char:EOLhyphen"/>gainſt him, is cut off from fellowſhip with Chriſt for e<g ref="char:EOLhyphen"/>ver, even to the comming of the Lord<note n="a" place="margin">1 Cor. 16.22.</note>.</p>
+            <p n="40">40. Qu. <hi>Having ſeene what power of Governement the Church hath received and exerciſed within it ſelfe: tell mee now whether any Church hath power of governement over a<g ref="char:EOLhyphen"/>nother?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> No Church hath power of Governement over a<g ref="char:EOLhyphen"/>nother, but each of them hath chiefe power within it ſelfe, and all of them equall power one with another; e<g ref="char:EOLhyphen"/>very Church hath received alike the power of binding, and looſing, opening and ſhutting the Kingdome of hea<g ref="char:EOLhyphen"/>ven<note n="a" place="margin">1 Mat. 18.17 18.</note>. But one to another, all of them are Siſters<note n="b" place="margin">Cant. 8, 8. Gal. 4.26.31</note>, all of them Concubines<note n="c" place="margin">Cant. 6.8.</note>, but by their owne corruption or u<g ref="char:EOLhyphen"/>ſurpation of others<note n="d" place="margin">Revel. 18.2.</note>: finally all of them are Candleſticks of the ſame precious metall, and in the midſt of them all Chriſt equally walketh<note n="e" place="margin">Revel. 1.12, 13. &amp; 2.1.</note>.</p>
+            <p n="41">
+               <pb n="13" facs="tcp:62788:8"/>41. Qu. <hi>But if one Church have no power of Governement over another: what courſe then is there left to reform ſuch cor<g ref="char:EOLhyphen"/>ruptions as may ariſe in any Church, whether in Doctrine or practiſe?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The corruptions that are found in any Church do either infect part of the Church, or the whole body: if part onely, then the part remaining ſound, may either convince and reforme their Brethren themſelves, if they be able; or if they be not able, they may at leaſt prevaile ſo farre with them, as to ſend for light from ſome other Church, as they of <hi>Antioch</hi> did to the Church of <hi>Hieruſa<g ref="char:EOLhyphen"/>lem</hi>
+               <note n="a" place="margin">Acts 15.2.</note>. But if the corruptions found in a Church doe infect the whole body,<note place="margin">Ezra 10.2.</note> yet ſtill there is hope in <hi>Iſrael</hi> concer<g ref="char:EOLhyphen"/>ning this. For though one Church hath not power of Governement over another, as ſubordinate to them: yet every Church hath equall power one with another, as coordinate with them. And therefore look what pow<g ref="char:EOLhyphen"/>er one Brother hath over another in the ſame Church, the ſame power hath one Church over another in Bro<g ref="char:EOLhyphen"/>therly communion. As if one Church ſhall heare of any offence in another, they may enquire the certainty of it<note n="b" place="margin">Deut. 13.14.</note>, and thereupon ſend letters and meſſengers, to convince and admoniſh them of it. If the Church offending doe heare the Church admoniſhing, they have gained their Brethren and their deſire: if the Church heare them not, then that other Church may take one or two Churches moe, to aſſiſt them in the conviction of that ſinne. If yet the Church heare them not, then upon due notice thereof given, all the Churches thereabout may ſo meet together, and after judicious enquiry into the cauſe, may by the word of God confute and condemne ſuch errours in doctrine or practice, as are found offenſive, to prevent the ſpreading either of the gangrene of hereſie<note n="c" place="margin">2 Tim. 2.17, 18.</note>, or of the leproſie of ſinne<note n="d" place="margin">1 Cor. 5.6, 7</note>. And if the Church offending ſhall not yet hearken to their Brethren, though the reſt of the Churches have not power to deliver them to Satan, yet they have power to withdraw from them the right hand of fellowſhip, and no longer to hold them in communion of Saints, till they approve their <hi>repentance</hi>
+               <note n="e" place="margin">
+                  <hi>By proporti<g ref="char:EOLhyphen"/>on, from</hi> Mat. 18.15, 16, 17. 2 Theſ. 3.6.</note>.</p>
+            <pb n="14" facs="tcp:62788:9" rendition="simple:additions"/>
+            <epigraph>
+               <bibl>Iſa. 33.22.</bibl>
+               <q>The Lord is our Judge, the Lord is our Law-giver, the Lord is our King; he will ſave us.</q>
+            </epigraph>
+         </div>
+         <div type="conclusion">
+            <head>A Concluſion.</head>
+            <p>
+               <note place="margin">J. C.</note>THe Kingdom of Chriſt, whether in the hearts of his ſervants, or in Church State, and all the Adminiſtra<g ref="char:EOLhyphen"/>tions thereof,<note place="margin">See Mr. <hi>Taylor</hi> on Tit. 1.5.</note> diſpenſed according to the Rule of the Goſpel, doth not diſturb the State, or Peace of earthly Kingdoms, or Common-wealths; And therefore, the gathering of Saints or Churches, according to the or<g ref="char:EOLhyphen"/>der of Chriſt, and the guidance and walking of both ac<g ref="char:EOLhyphen"/>cording to his will, is no juſt offence to the Civill Ma<g ref="char:EOLhyphen"/>giſtrate.</p>
+            <epigraph>
+               <bibl>Gal. 6.16.</bibl>
+               <q>As many as walk according to this Rule, peace be on them and mercy, and upon the Iſrael of God.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62788:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
